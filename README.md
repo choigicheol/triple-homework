@@ -3,7 +3,7 @@
 ## Setup  
 ### 프로젝트를 클론합니다  
 ```
-$ git clone git@github.com:titicacadev/triple-frontend.git && cd triple-frontend
+$ git clone https://github.com/choigicheol/triple-homework.git
 ```
 
 ### 디펜던시를 설치합니다  
